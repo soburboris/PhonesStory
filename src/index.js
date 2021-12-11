@@ -8,6 +8,7 @@ import thunk from 'redux-thunk'
 import { ConnectedRouter, routerMiddleware } from 'connected-react-router'
 import {Provider} from 'react-redux'
 
+
 import createRootReducer from 'reducers'
 import routes from 'routes'
 
